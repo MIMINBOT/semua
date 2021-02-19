@@ -1,4 +1,4 @@
-# MIMIM � BOT
+# MIMIM × BOT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -14,8 +14,10 @@ Simple WhatsApp Bot
 > ls
 > cd (nama file nya)
 > npm i 
+> bash install.sh
 ```
-###### Run
+
+###### Lari
 ```bash
 > node index.js 
 ```
@@ -49,4 +51,4 @@ Script: @Ibnu
 
 </p>
 
-Official Github 👉[GITHUB](https://github.com/MIMINBOT)
+Official Github ðŸ‘‰[GITHUB](https://github.com/MIMINBOT)
